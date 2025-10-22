@@ -1,4 +1,4 @@
-Hello my name is Estevan, im at the moment in my very beuatiful country name Brazil
+Hello my name is Estevan, im at the moment in my very beuatiful country named Brazil
 I am a junior of the juniors on Dev, just started, dreaming about being a fullstack dev 
 Long journey but here i am
 <!---
