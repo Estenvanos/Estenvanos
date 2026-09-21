@@ -47,6 +47,6 @@ I'm currently focused on improving my skills in backend development, software ar
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Estenvanos&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Pedro's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Estenvanos&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Estenvanos&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Estenvanos&theme=dark&hide_border=true&layout=compact)
