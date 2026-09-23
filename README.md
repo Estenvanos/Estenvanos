@@ -4,8 +4,6 @@ Full Stack Developer and Software Analysis and Development student at UNOESC.
 
 I enjoy building web applications from problem discovery and data modeling to development, deployment and maintenance.
 
-I've worked on applications used by companies, including a quotation platform that reduced a process from around 4 hours to approximately 30 minutes, and an offline-first catalog and ordering platform designed for sales representatives.
-
 I'm currently focused on improving my skills in backend development, software architecture and building maintainable web applications.
 
 ## 💻 Tech Stack
